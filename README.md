@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .fishing one-word domains from Uni
 
 **Public extract:** 9,773 rows · **Live catalog:** 9,773 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/fishing`  
 **Best for:** founders, investors, studios
 
@@ -78,11 +78,11 @@ print(df.head())
 | free.fishing      | premium   | $250      | $45.99        | 88             | 59     | 4      | name.com         |
 | creator.fishing   | available | $42.99    | $45.99        | 70             | 45     | 7      | name.com         |
 | family.fishing    | resell    | —         | —             | 106            | 46     | 6      | GoDaddy.com, LLC |
-| alpha.fishing     | premium   | $50       | $45.99        | 90             | 54     | 5      | name.com         |
+| zero.fishing      | premium   | $50       | $45.99        | 112            | 53     | 4      | name.com         |
 | forge.fishing     | available | $42.99    | $45.99        | 62             | 45     | 5      | name.com         |
 | russia.fishing    | resell    | —         | —             | 90             | 43     | 6      | NameCheap, Inc.  |
-| zero.fishing      | premium   | $50       | $45.99        | 112            | 53     | 4      | name.com         |
-| star.fishing      | available | $42.99    | $45.99        | 86             | 44     | 4      | name.com         |
+| business.fishing  | premium   | $52       | $31.20        | 100            | 53     | 8      | namecheap        |
+| wizard.fishing    | available | $42.99    | $45.99        | 118            | 43     | 6      | name.com         |
 | sport.fishing     | resell    | —         | —             | 70             | 37     | 5      | GoDaddy.com, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FISHING One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FISHING One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
