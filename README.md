@@ -70,12 +70,12 @@ print(df.head())
 | abc.fishing       | available | $43.98    | —             | 102            | 50     | 3      | namecheap        |
 | world.fishing     | resell    | —         | —             | 88             | 51     | 5      | GoDaddy.com, LLC |
 | power.fishing     | premium   | $104      | $31.20        | 98             | 62     | 5      | namecheap        |
-| simple.fishing    | available | $42.99    | $45.99        | 128            | 48     | 6      | name.com         |
+| simple.fishing    | available | $42.99    | $45.99        | 128            | 49     | 6      | name.com         |
 | one.fishing       | resell    | —         | —             | 132            | 50     | 3      | Dynadot Inc      |
 | seventeen.fishing | premium   | $50       | $45.99        | 84             | 62     | 9      | name.com         |
 | genius.fishing    | available | $42.99    | $45.99        | 98             | 45     | 6      | name.com         |
 | gold.fishing      | resell    | —         | —             | 72             | 48     | 4      | GoDaddy.com, LLC |
-| free.fishing      | premium   | $250      | $45.99        | 88             | 59     | 4      | name.com         |
+| free.fishing      | premium   | $250      | $45.99        | 88             | 57     | 4      | name.com         |
 | creator.fishing   | available | $42.99    | $45.99        | 70             | 45     | 7      | name.com         |
 | family.fishing    | resell    | —         | —             | 106            | 46     | 6      | GoDaddy.com, LLC |
 | zero.fishing      | premium   | $50       | $45.99        | 112            | 53     | 4      | name.com         |
