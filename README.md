@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .fishing one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,748 domains · **Median ask:** $54.97 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/fishing`  
 **Best for:** founders, investors, studios
 
@@ -78,12 +78,12 @@ print(df.head())
 | events.fishing       | premium   | $100      | —             | 68             | 37     | 6      | name.com         |
 | spectra.fishing      | available | $45.98    | —             | 62             | 34     | 7      | namecheap        |
 | stories.fishing      | premium   | $100      | —             | 58             | 36     | 7      | name.com         |
-| etc.fishing          | available | $45.98    | —             | 58             | 34     | 3      | namecheap        |
-| brands.fishing       | premium   | $100      | —             | 62             | 28     | 6      | name.com         |
 | teams.fishing        | available | $45.98    | —             | 62             | 32     | 5      | namecheap        |
-| photos.fishing       | premium   | $250      | —             | 54             | 28     | 6      | name.com         |
+| gods.fishing         | premium   | $50       | —             | 72             | 29     | 4      | name.com         |
+| etc.fishing          | available | $45.98    | —             | 58             | 32     | 3      | namecheap        |
+| brands.fishing       | premium   | $100      | —             | 62             | 28     | 6      | name.com         |
 | KFC.fishing          | available | $45.98    | —             | 74             | 27     | 3      | namecheap        |
-| gods.fishing         | premium   | $50       | —             | 72             | 27     | 4      | name.com         |
+| photos.fishing       | premium   | $250      | —             | 54             | 28     | 6      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FISHING One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FISHING One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
