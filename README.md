@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .fishing one-word domains f
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,748 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,748 domains · **Median ask:** $54.97 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,748 domains · **Median ask:** $51.73 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/fishing`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/fishing`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .FISHING one-word doma
 
 ### Files
 
-- `fishing.csv` — public CSV extract (1,000 rows)
-- `fishing.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `fishing.csv`, public CSV extract (1,000 rows)
+- `fishing.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| RedSox.fishing       | available | $45.98    | —             | 72             | 60     | 7      | namecheap        |
-| girls.fishing        | resell    | —         | —             | 83             | 23     | 5      | GoDaddy.com, LLC |
-| agents.fishing       | premium   | $100      | —             | 56             | 50     | 6      | name.com         |
-| farmers.fishing      | available | $45.98    | —             | 54             | 59     | 7      | namecheap        |
-| dads.fishing         | resell    | —         | —             | 60             | 17     | 4      | GoDaddy.com, LLC |
-| jobs.fishing         | premium   | $100      | —             | 79             | 42     | 4      | name.com         |
-| coins.fishing        | available | $45.98    | —             | 56             | 41     | 5      | namecheap        |
-| WiFi.fishing         | premium   | $56       | $35           | 83             | 37     | 5      | namecheap        |
-| matcha.fishing       | available | $45.98    | —             | 86             | 39     | 6      | namecheap        |
-| neuroscience.fishing | premium   | $100      | —             | 80             | 37     | 12     | name.com         |
-| tokens.fishing       | available | $32.49    | $32.49        | 51             | 36     | 6      | namesilo         |
-| events.fishing       | premium   | $100      | —             | 68             | 37     | 6      | name.com         |
-| spectra.fishing      | available | $45.98    | —             | 62             | 34     | 7      | namecheap        |
-| stories.fishing      | premium   | $100      | —             | 58             | 36     | 7      | name.com         |
-| teams.fishing        | available | $45.98    | —             | 62             | 32     | 5      | namecheap        |
-| gods.fishing         | premium   | $50       | —             | 72             | 29     | 4      | name.com         |
-| etc.fishing          | available | $45.98    | —             | 58             | 32     | 3      | namecheap        |
-| brands.fishing       | premium   | $100      | —             | 62             | 28     | 6      | name.com         |
-| KFC.fishing          | available | $45.98    | —             | 74             | 27     | 3      | namecheap        |
-| photos.fishing       | premium   | $250      | —             | 54             | 28     | 6      | name.com         |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| lcd.fishing  | available | $32.49    | $32.49        | high           | low    | 3      | namesilo         |
+| out.fishing  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
+| air.fishing  | premium   | $52       | $31.20        | high           | medium | 3      | namecheap        |
+| able.fishing | available | $42.99    | $45.99        | high           | low    | 4      | name.com         |
+| ash.fishing  | premium   | $47.20    | $29.50        | medium         | low    | 3      | namesilo         |
+| bake.fishing | available | $32.49    | $32.49        | high           | low    | 4      | namesilo         |
+| ate.fishing  | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo         |
+| cock.fishing | available | $32.49    | $32.49        | medium         | low    | 4      | namesilo         |
+| axe.fishing  | premium   | $47.20    | $29.50        | medium         | low    | 3      | namesilo         |
+| foto.fishing | available | $32.49    | $32.49        | high           | low    | 4      | namesilo         |
+| bro.fishing  | premium   | $47.20    | $29.50        | medium         | low    | 3      | namesilo         |
+| hand.fishing | available | $45.98    | —             | high           | low    | 4      | namecheap        |
+| btw.fishing  | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo         |
+| matt.fishing | available | $32.49    | $32.49        | high           | high   | 4      | namesilo         |
+| con.fishing  | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo         |
+| pill.fishing | available | $45.98    | —             | medium         | low    | 4      | namecheap        |
+| cow.fishing  | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo         |
+| stay.fishing | available | $32.49    | $32.49        | medium         | low    | 4      | namesilo         |
+| cry.fishing  | premium   | $50       | —             | high           | low    | 3      | name.com         |
+| xxvi.fishing | available | $42.99    | $45.99        | medium         | low    | 4      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .fishing domains, which makes it unusually specific. The extension gives every name an immediate fishing context, so the main differences are the strength of the word, its clarity, and its commercial fit. Names like request.fishing, free.fishing, things.fishing, math.fishing, and intrigue.fishing show how wide the spectrum can be: some are direct, some abstract, and some may be harder to connect to the category. When comparing these domains, start with memorability, then check whether the word feels credible in a fishing context, whether the ask fits your budget, and whether the term raises obvious trademark concerns.
+This list gathers one-word and short-phrase domain names registered under the .fishing extension. Sample names like dogsit.fishing, windowshop.fishing, and neuroscience.fishing show how the TLD is used less for literal fishing content and more as a distinctive, low-cost namespace for everyday words. With 12,748 domains in this set and a median asking price near $52, the selection favors affordability over exclusivity, making it a practical starting point for founders comparing options and investors scanning early-stage inventory.
 
-- All names in this selection use the .fishing extension
-- Median ask across the set is 54.97
-- Prioritize words that fit fishing use cases clearly
-- Avoid terms with likely trademark conflict
+- 12,748 one-word .fishing domains in this selection
+- Median asking price near $52 across the set
+- Names span single words to short phrases, e.g. getup.fishing
+- Updated daily as new .fishing listings enter the market
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FISHING One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FISHING One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
