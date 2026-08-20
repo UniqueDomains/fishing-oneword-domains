@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .fishing one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,719 domains · **Median ask:** $45.42 · **High-demand under $2,500:** 24
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/fishing`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| out.fishing   | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
-| feel.fishing  | premium   | $96       | $29.50        | high           | low    | 4      | namesilo         |
-| great.fishing | premium   | $47.20    | $29.50        | high           | low    | 5      | namesilo         |
-| yes.fishing   | premium   | $96       | $29.50        | high           | medium | 3      | namesilo         |
-| lcd.fishing   | available | $32.49    | $32.49        | high           | low    | 3      | namesilo         |
-| air.fishing   | premium   | $52       | $31.20        | high           | medium | 3      | namecheap        |
-| xli.fishing   | available | $32.49    | $32.49        | low            | low    | 3      | namesilo         |
-| ash.fishing   | premium   | $47.20    | $29.50        | medium         | low    | 3      | namesilo         |
-| able.fishing  | available | $42.99    | $45.99        | high           | low    | 4      | name.com         |
-| ate.fishing   | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo         |
-| bake.fishing  | available | $32.49    | $32.49        | high           | low    | 4      | namesilo         |
-| axe.fishing   | premium   | $47.20    | $29.50        | medium         | low    | 3      | namesilo         |
-| cock.fishing  | available | $32.49    | $32.49        | medium         | low    | 4      | namesilo         |
-| bro.fishing   | premium   | $47.20    | $29.50        | medium         | low    | 3      | namesilo         |
-| cxxv.fishing  | available | $32.49    | $32.49        | low            | low    | 4      | namesilo         |
-| btw.fishing   | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo         |
-| foto.fishing  | available | $32.49    | $32.49        | high           | low    | 4      | namesilo         |
-| con.fishing   | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo         |
-| hand.fishing  | available | $45.98    | —             | high           | low    | 4      | namecheap        |
-| cow.fishing   | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo         |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| lcd.fishing  | available | $32.49    | $32.49        | high           | low    | 3      | namesilo         |
+| out.fishing  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
+| air.fishing  | premium   | $52       | $31.20        | high           | medium | 3      | namecheap        |
+| xli.fishing  | available | $32.49    | $32.49        | low            | low    | 3      | namesilo         |
+| ash.fishing  | premium   | $47.20    | $29.50        | medium         | low    | 3      | namesilo         |
+| able.fishing | available | $42.99    | $45.99        | high           | low    | 4      | name.com         |
+| ate.fishing  | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo         |
+| bake.fishing | available | $32.49    | $32.49        | high           | low    | 4      | namesilo         |
+| axe.fishing  | premium   | $47.20    | $29.50        | medium         | low    | 3      | namesilo         |
+| cock.fishing | available | $32.49    | $32.49        | medium         | low    | 4      | namesilo         |
+| bro.fishing  | premium   | $47.20    | $29.50        | medium         | low    | 3      | namesilo         |
+| cxxv.fishing | available | $32.49    | $32.49        | low            | low    | 4      | namesilo         |
+| btw.fishing  | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo         |
+| foto.fishing | available | $32.49    | $32.49        | high           | low    | 4      | namesilo         |
+| con.fishing  | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo         |
+| hand.fishing | available | $45.98    | —             | high           | low    | 4      | namecheap        |
+| cow.fishing  | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo         |
+| lxxi.fishing | available | $32.49    | $32.49        | low            | low    | 4      | namesilo         |
+| cry.fishing  | premium   | $50       | —             | high           | low    | 3      | name.com         |
+| matt.fishing | available | $32.49    | $32.49        | high           | high   | 4      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FISHING One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FISHING One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
