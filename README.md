@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .fishing one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,910 domains · **Median ask:** $44.05 · **High-demand under $2,500:** 24
 
-**Last updated:** 2026-09-08
+**Last updated:** 2026-09-09
 **Canonical page:** `https://unique.domains/domains/tld/fishing`
 **Best for:** founders, investors, studios
 
@@ -64,9 +64,8 @@ print(df.head())
 
 | domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| out.fishing  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
-| feel.fishing | premium   | $96       | $29.50        | high           | low    | 4      | namesilo         |
 | lcd.fishing  | available | $32.49    | $32.49        | high           | low    | 3      | namesilo         |
+| out.fishing  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
 | air.fishing  | premium   | $52       | $31.20        | high           | medium | 3      | namecheap        |
 | xli.fishing  | available | $32.49    | $32.49        | low            | low    | 3      | namesilo         |
 | ash.fishing  | premium   | $47.20    | $29.50        | medium         | low    | 3      | namesilo         |
@@ -84,6 +83,7 @@ print(df.head())
 | cow.fishing  | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo         |
 | lxxi.fishing | available | $32.49    | $32.49        | low            | low    | 4      | namesilo         |
 | cry.fishing  | premium   | $50       | —             | high           | low    | 3      | name.com         |
+| matt.fishing | available | $32.49    | $32.49        | high           | high   | 4      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FISHING One-Word Domains*. Version 2026-09-08. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FISHING One-Word Domains*. Version 2026-09-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
