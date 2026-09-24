@@ -14,7 +14,7 @@ b5c35f39-f63e-4eee-a3ea-7ebade268c9b,production.fishing,available,33.98,45.98,me
 ff47f6e1-eded-46b3-9780-256130fcceec,aegean.fishing,available,32.49,32.49,low,low,6,namesilo,,,
 f38124bf-8b28-4262-bad9-876e106ec35d,certainly.fishing,available,32.49,32.49,medium,low,9,namesilo,,,
 66280c34-cd4f-4ed7-b957-1ed8a55cc1fe,optic.fishing,available,32.49,32.49,high,low,5,namesilo,,,
-d2b59b3a-c4c8-4b8c-a702-89b797f1d78e,platform.fishing,premium,242,29.5,high,medium,8,namesilo,,,
+d2b59b3a-c4c8-4b8c-a702-89b797f1d78e,platform.fishing,premium,242,29.5,medium,low,8,namesilo,,,23/09/2026 06:19
 e566d05e-37af-46ae-9d94-cb52b1944d3e,acrosstheboard.fishing,available,32.49,32.49,high,low,16,namesilo,,,
 ac8e957a-8fd6-4f01-98b6-35e5667f5af6,regular.fishing,premium,96,29.5,high,low,7,namesilo,,,
 c08d012c-a6f9-46a5-b58f-0e31622079c1,aground.fishing,available,32.49,32.49,low,low,7,namesilo,,,
@@ -96,7 +96,7 @@ c47215bb-0068-4f33-893c-d96f0408c895,airtoair.fishing,available,33.98,45.98,low,
 0bca66ee-ac20-4460-8893-afe37fdde5b0,everybody.fishing,available,32.49,32.49,medium,low,10,namesilo,,,
 6acd6781-44af-4cd8-aa62-6a44e854b8b0,cxxv.fishing,available,32.49,32.49,low,low,4,namesilo,,,
 f44a8144-04c7-4c38-bb27-bff63fc07f35,month.fishing,premium,96,29.5,high,low,5,namesilo,,,
-e4eaa858-99a5-45f0-94fa-4ccdda58fe8b,entertain.fishing,available,32.49,32.49,high,low,9,namesilo,,,
+e4eaa858-99a5-45f0-94fa-4ccdda58fe8b,entertain.fishing,available,32.49,32.49,medium,low,9,namesilo,,,24/09/2026 02:50
 64dbb896-5ff3-46b4-b377-69cbf8b3f4e8,kindness.fishing,available,32.49,32.49,high,low,8,namesilo,,,
 ad5936a0-3ed6-4aa5-93eb-d8d788d5a485,hardfeelings.fishing,available,32.49,32.49,medium,low,13,namesilo,,,
 80caf9a4-342f-404f-b64f-e8a12fa0af27,dyspeptic.fishing,available,32.49,32.49,low,low,9,namesilo,,,07/08/2026 14:14
@@ -144,7 +144,7 @@ b00ad135-3721-4847-8e6d-2b9307a7d583,perfected.fishing,available,32.49,32.49,hig
 62cee436-f9c8-4fe0-9cd4-516290f2007a,trace.fishing,premium,47.2,29.5,medium,low,5,namesilo,,,
 818e125f-da47-419c-b180-5e4855f4d06d,oilterminal.fishing,available,32.49,32.49,medium,low,12,namesilo,,,
 15b36e93-2d06-4150-9a58-436174269bcc,infrontof.fishing,available,45.98,,medium,low,11,namecheap,,,
-549ad517-bc4c-4f40-bff2-2e2a054af486,builtin.fishing,available,32.49,32.49,high,low,8,namesilo,,,
+549ad517-bc4c-4f40-bff2-2e2a054af486,builtin.fishing,available,32.49,32.49,medium,low,8,namesilo,,,23/09/2026 10:27
 5e5122ec-1459-4404-bf7b-d4efb72499b3,stcharles.fishing,premium,96,29.5,medium,low,11,namesilo,,,
 9ee3ea1d-5804-4b23-83ea-9732fad91195,exemplary.fishing,available,33.98,45.98,medium,low,9,namecheap,,,21/09/2026 18:58
 dc1f26ae-4b06-4d6a-b53f-fe2435428858,ash.fishing,premium,47.2,29.5,medium,low,3,namesilo,,,
@@ -180,7 +180,7 @@ e6213972-13ef-4a20-a206-91610508d092,ecommerce.fishing,premium,96,29.5,high,low,
 f277ec95-33be-4073-8a5f-329bdb0e60c2,stpetersburg.fishing,premium,96,29.5,medium,low,14,namesilo,,,
 823eabbf-7239-4d2c-87e5-eb20b20f9969,cordial.fishing,available,33.98,45.98,medium,low,7,namecheap,,,21/09/2026 21:39
 0ac5a01f-8d6e-47d8-b0c0-5c5900ff5457,inthreedays.fishing,available,45.98,,medium,low,13,namecheap,,,
-aeda8ccd-b102-4af8-9f74-12e06f46a4ee,corrupted.fishing,available,42.99,45.99,medium,low,9,name.com,,,
+aeda8ccd-b102-4af8-9f74-12e06f46a4ee,corrupted.fishing,available,32.49,32.49,low,low,9,namesilo,,,23/09/2026 23:59
 ac3519cf-b776-4312-8c2b-d18dd82e56eb,baconexplosion.fishing,available,32.49,32.49,high,low,15,namesilo,,,
 03611eb4-471c-4234-87d5-898882e12d7c,grandchild.fishing,available,32.49,32.49,medium,low,10,namesilo,,,
 80232ed4-63b5-4698-8cf9-c7aa736f0279,vacation.fishing,premium,96,29.5,high,low,8,namesilo,,,
@@ -213,7 +213,7 @@ cc69fdc2-b19d-4133-b0a6-4270b579e258,wordplay.fishing,available,32.49,32.49,medi
 bb050212-1e53-4e26-8028-ad761806e591,sixtieth.fishing,available,32.49,32.49,low,low,8,namesilo,,,
 4165b6fc-b1f3-4cbc-af94-0e2dfe45c36e,songlike.fishing,available,32.49,32.49,low,low,8,namesilo,,,06/08/2026 19:24
 9f1876d4-bef0-4e81-8f94-d8205d7395f8,aboveall.fishing,available,32.49,32.49,medium,low,9,namesilo,,,13/09/2026 16:35
-51513694-2c11-47cd-b033-673d9bb66344,conclusive.fishing,available,32.49,32.49,medium,low,10,namesilo,,,
+51513694-2c11-47cd-b033-673d9bb66344,conclusive.fishing,available,32.49,32.49,medium,low,10,namesilo,,,23/09/2026 19:11
 114233ab-5687-4c30-a72d-5ef35a5d6644,bible.fishing,premium,96,29.5,high,medium,5,namesilo,,,
 1a5ffb92-9e4f-4a84-8a2c-6ae80ccc3ef0,crush.fishing,premium,47.2,29.5,medium,low,5,namesilo,,,09/08/2026 05:21
 5a34fe81-7d3e-41c8-a3c5-032597a89353,stove.fishing,available,33.98,45.98,low,low,5,namecheap,,,19/09/2026 18:48
@@ -240,7 +240,7 @@ a3a0cffc-3d4c-4b45-98ea-81c4c3b8bd0e,face.fishing,premium,96,29.5,high,low,4,nam
 c398278a-84ca-40a4-80b5-b70d5282ff08,written.fishing,available,32.49,32.49,high,low,7,namesilo,,,
 85e51376-e740-4a12-b7ed-488c0e792b78,fight.fishing,premium,47.2,29.5,high,low,5,namesilo,,,
 747ca2ca-4cc9-496b-a969-60aab84905af,commonman.fishing,available,32.49,32.49,high,low,10,namesilo,,,
-6f53835b-f882-44e1-81fc-00236bcacf57,processed.fishing,available,32.49,32.49,low,low,9,namesilo,,,19/09/2026 13:08
+6f53835b-f882-44e1-81fc-00236bcacf57,processed.fishing,available,32.49,32.49,low,low,9,namesilo,,,23/09/2026 15:59
 9bf001ab-4e78-4a57-90e2-68f1d01b79b5,frog.fishing,premium,50,46.99,medium,low,4,name.com,,,05/08/2026 21:03
 ed8ad332-c319-4252-bfa2-94a8400ef93f,addressed.fishing,available,32.49,32.49,low,low,9,namesilo,,,
 4e04ee8b-64d8-4ef0-8f05-0baec02152a8,bloom.fishing,premium,96,29.5,low,low,5,namesilo,,,22/09/2026 22:34
@@ -269,7 +269,7 @@ c28493c4-7129-46b1-9def-c5625ba4bc47,oilpainting.fishing,available,32.49,32.49,m
 658ef3b4-b450-43a2-a7ba-221719b8d496,sensory.fishing,available,32.49,32.49,high,low,7,namesilo,,,
 44215a6d-703f-411f-b3d0-f10c80d57d04,underestimate.fishing,available,32.49,32.49,high,low,13,namesilo,,,
 55213fbb-f2a2-4e55-9113-5109b31612cf,accommodate.fishing,available,45.98,,medium,low,11,namecheap,,,
-aa892027-0c1a-4042-8a10-9e7adaae8d63,quiz.fishing,premium,47.2,29.5,high,low,4,namesilo,,,
+aa892027-0c1a-4042-8a10-9e7adaae8d63,quiz.fishing,premium,47.2,29.5,medium,low,4,namesilo,,,23/09/2026 06:25
 0653574d-4c0f-4e94-a460-efdabf6c1bc3,antigenic.fishing,available,33.98,45.98,low,low,9,namecheap,,,
 2477eeff-920b-45e9-b572-65d7343df271,oneself.fishing,available,32.49,32.49,high,low,7,namesilo,,,
 a2234446-11cb-432f-a08f-6ba5a72384ce,observer.fishing,available,32.49,32.49,medium,low,8,namesilo,,,
@@ -292,7 +292,7 @@ e7d027d1-5b48-4737-8eb3-ff700800fa6e,mushy.fishing,available,32.49,32.49,low,low
 226e6b75-4828-47be-b15f-3dc728cb6e63,medicalreport.fishing,available,32.49,32.49,medium,low,14,namesilo,,,
 b6fabf0e-3031-41c6-83c5-49ccb5d94183,disc.fishing,premium,96,29.5,high,low,4,namesilo,,,
 b2c71756-15f7-4239-b91f-96bb27ee220d,beakless.fishing,available,32.49,32.49,low,low,8,namesilo,,,09/08/2026 03:55
-f95aaeb2-b4d6-4b35-acb6-dff196107a1b,cunning.fishing,available,42.99,45.99,medium,low,7,name.com,,,
+f95aaeb2-b4d6-4b35-acb6-dff196107a1b,cunning.fishing,available,32.49,32.49,low,low,7,namesilo,,,24/09/2026 01:26
 98a210e9-597a-4f51-a9dd-80ff52f10f97,party.fishing,premium,96,29.5,medium,low,5,namesilo,,,19/09/2026 09:39
 f9bece5b-b849-4aab-b8dc-f3a974199850,animating.fishing,available,32.49,32.49,medium,low,9,namesilo,,,22/09/2026 05:08
 e3deee83-91f9-41a1-8e91-51ed9244946f,foto.fishing,available,32.49,32.49,high,low,4,namesilo,,,
@@ -353,7 +353,7 @@ b5a54226-7dcf-4c08-81cf-729eb9c67d52,reply.fishing,available,45.98,,high,low,5,n
 3da2fcb6-d0ca-4a7b-9539-c65652fb19f8,algal.fishing,available,32.49,32.49,low,low,5,namesilo,,,
 f57bcf7f-c2f4-4fc1-bb05-200974fe813b,turnahair.fishing,available,45.98,,low,low,11,namecheap,,,
 3a3f193b-4018-4ce4-afc7-1ef61dd4ffeb,beam.fishing,premium,96,29.5,medium,medium,4,namesilo,,,
-6ad36c22-7679-428d-9ce3-c73d498c83f7,reinforced.fishing,available,32.49,32.49,medium,low,10,namesilo,,,
+6ad36c22-7679-428d-9ce3-c73d498c83f7,reinforced.fishing,available,32.49,32.49,medium,low,10,namesilo,,,23/09/2026 10:25
 031634d4-39de-4f37-9d25-25276b85fa67,tug.fishing,premium,47.2,29.5,high,low,3,namesilo,,,
 dea3c409-1476-438f-8f1a-2f28c0d7beb0,inregardto.fishing,available,45.98,,medium,low,12,namecheap,,,
 7b66b00e-b608-4d20-9e72-ba93dbb8b74f,daytime.fishing,premium,47.2,29.5,high,low,7,namesilo,,,
@@ -365,11 +365,11 @@ dea3c409-1476-438f-8f1a-2f28c0d7beb0,inregardto.fishing,available,45.98,,medium,
 df7def44-785f-4b3d-b49b-04b0fb573977,seven.fishing,premium,96,29.5,low,medium,5,namesilo,,,
 a6890867-9805-41d1-9a9a-4089b593fee2,explorer.fishing,available,32.49,32.49,high,low,8,namesilo,,,
 156efb78-d9c4-4070-9304-a69d848dcd31,yoursever.fishing,available,32.49,32.49,low,low,10,namesilo,,,
-2f82b8db-85db-4618-bcf6-ff76438a7b78,comforted.fishing,available,32.49,32.49,high,low,9,namesilo,,,
+2f82b8db-85db-4618-bcf6-ff76438a7b78,comforted.fishing,available,32.49,32.49,medium,low,9,namesilo,,,23/09/2026 15:14
 71edd2b7-33ab-44ae-89da-b3c42420e988,beat.fishing,premium,52,32.5,medium,low,4,namecheap,,,22/09/2026 18:37
 fe7cb3a0-6b32-4e83-a020-5ea834b59b84,offhanded.fishing,available,33.98,45.98,low,low,9,namecheap,,,
 63c1e06f-0eea-44a6-88c3-c68a3e3ea711,santa.fishing,available,32.49,32.49,high,low,5,namesilo,,,
-3118c071-85d9-440e-b595-8051a10cb9ec,committed.fishing,available,32.49,32.49,high,low,9,namesilo,,,
+3118c071-85d9-440e-b595-8051a10cb9ec,committed.fishing,available,32.49,32.49,medium,low,9,namesilo,,,23/09/2026 15:46
 a752224e-f2e9-484a-be47-9286baa4e5ff,pestering.fishing,available,32.49,32.49,low,low,9,namesilo,,,
 c7c32701-5158-4268-9173-0757baf9a115,arcane.fishing,available,32.49,32.49,low,low,6,namesilo,,,06/08/2026 14:24
 70c4dcb4-a08c-40d0-acf6-caa271050bf7,alienable.fishing,available,32.49,32.49,low,low,9,namesilo,,,
@@ -409,7 +409,7 @@ ba489f7a-87ef-4e84-9279-1cbbf2ef353b,aphasic.fishing,available,32.49,32.49,low,l
 d0547fb6-7d5c-4a5d-882d-1143276a863a,finalsay.fishing,available,32.49,32.49,high,low,9,namesilo,,,
 51a882f1-603e-47f8-850a-d9dfe3d5b7ae,timeworn.fishing,available,32.49,32.49,low,low,8,namesilo,,,08/08/2026 11:14
 51f39875-8691-4a3a-9977-11359902c26d,bedrid.fishing,available,32.49,32.49,low,low,6,namesilo,,,09/08/2026 07:07
-11c9c2f5-52c7-48ac-983e-556912a41b9b,task.fishing,premium,47.2,29.5,high,low,4,namesilo,,,
+11c9c2f5-52c7-48ac-983e-556912a41b9b,task.fishing,premium,47.2,29.5,medium,low,4,namesilo,,,24/09/2026 03:25
 fec4ec23-1919-4861-9abc-bb97325ba4ca,antipodal.fishing,available,32.49,32.49,low,low,9,namesilo,,,
 903a429c-446f-4564-8b56-58de8cadcb9b,surface.fishing,available,33.98,45.98,low,low,7,namecheap,,,19/09/2026 13:21
 cd76fdd6-3bf2-4883-82c1-d955f85ba1e7,matt.fishing,available,32.49,32.49,high,high,4,namesilo,,,
@@ -427,7 +427,7 @@ dde8319a-d6a3-4cc4-b4d9-d3d6a6618cf6,intimes.fishing,available,45.98,,medium,low
 c3e405e8-5494-4fba-9fb5-45aae6738b0d,race.fishing,premium,100,,high,low,4,name.com,,,
 d5cf2677-6334-40b2-82c0-f46bbf90718b,asian.fishing,available,32.49,32.49,low,low,5,namesilo,,,22/09/2026 09:40
 36accbc1-ca07-4d08-ad31-7e4be29c8c67,oslo.fishing,premium,47.2,29.5,medium,low,4,namesilo,,,
-ad9e6b2b-3be7-4cc6-b579-847f3d754009,limiting.fishing,available,42.99,45.99,medium,low,8,name.com,,,
+ad9e6b2b-3be7-4cc6-b579-847f3d754009,limiting.fishing,available,32.49,32.49,low,low,8,namesilo,,,23/09/2026 19:42
 a5baa70f-ba6a-44c9-81e7-1011dbc764f3,vibrate.fishing,available,32.49,32.49,high,low,7,namesilo,,,
 f6ce5d05-71ee-4557-b098-fd380a108ed9,votingage.fishing,available,32.49,32.49,low,low,10,namesilo,,,
 57a9083e-6478-4d50-93c9-dcac8c23cecc,airborne.fishing,available,33.98,45.98,low,low,8,namecheap,,,
@@ -448,7 +448,7 @@ fccfb98e-2f8f-456d-878a-27a1c72e6528,fifty.fishing,available,32.49,32.49,low,low
 02ebaff7-41a9-4a8f-8d57-a8e3da610786,afrikander.fishing,available,32.49,32.49,low,low,10,namesilo,,,
 6810267e-910a-4d69-b834-57119fa2df87,treat.fishing,available,42.99,45.99,high,low,5,name.com,,,
 140a821c-6210-4435-babe-2175fc0d9187,supermodel.fishing,available,45.98,,high,low,10,namecheap,,,
-d7dc18b2-5156-43fb-bfc0-8ee7f3efdeb2,opposite.fishing,available,42.99,45.99,high,low,8,name.com,,,
+d7dc18b2-5156-43fb-bfc0-8ee7f3efdeb2,opposite.fishing,available,33.98,45.98,low,low,8,namecheap,,,23/09/2026 22:35
 30082b85-dc06-4996-8934-5fa1ae1d081f,teasing.fishing,available,33.98,45.98,low,low,7,namecheap,,,22/09/2026 05:24
 6a081c32-181e-4184-be59-6f61975760fe,greet.fishing,available,32.49,32.49,high,low,5,namesilo,,,
 c44eb07a-6f85-47e4-813a-264fe55c6f1f,lambent.fishing,available,32.49,32.49,low,low,7,namesilo,,,
@@ -460,7 +460,7 @@ e5166d28-c174-4f94-b592-e6d4cc10dd62,once.fishing,premium,50,,high,low,4,name.co
 b10ccbc6-6114-48c7-b645-60763f39eeef,shopping.fishing,premium,242,29.5,medium,low,8,namesilo,,,
 21de818f-7e9b-40fe-a66e-589357b43413,titlepolicy.fishing,available,32.49,32.49,medium,low,12,namesilo,,,
 916dfdf1-f8e5-4f6e-9c9d-84d20b4144e9,inane.fishing,available,32.49,32.49,low,low,5,namesilo,,,07/08/2026 02:43
-89654eda-a002-47a5-a597-9f78cae90a3d,lousy.fishing,available,42.99,45.99,medium,low,5,name.com,,,
+89654eda-a002-47a5-a597-9f78cae90a3d,lousy.fishing,available,46.99,46.99,low,low,5,name.com,,,24/09/2026 01:33
 51710099-4918-44ba-8f97-da93a875d396,daggum.fishing,available,32.49,32.49,high,low,6,namesilo,,,
 5357a2ea-74ec-4c8d-b171-782e77956e60,revolution.fishing,available,45.98,,medium,low,10,namecheap,,,
 a25f6f4f-c299-454a-80f3-d7253a34dd75,mantra.fishing,available,45.98,,high,low,6,namecheap,,,
@@ -469,7 +469,7 @@ e1e4680b-8c21-4dd6-8989-de5e7657150f,thursday.fishing,premium,50,,high,low,8,nam
 8270945f-990a-480d-ad10-f7017655fc4d,xxxi.fishing,available,32.49,32.49,low,low,4,namesilo,,,
 ea16ce70-24bf-49f7-93d5-aa34b9f2b7b8,apathetic.fishing,available,32.49,32.49,low,low,9,namesilo,,,05/08/2026 22:04
 79c085e8-1117-4e88-b68b-a247c82dfb9c,fucksome.fishing,available,32.49,32.49,medium,low,8,namesilo,,,
-d352b6de-ef52-4dcc-bf9d-07c89554904c,payment.fishing,available,32.49,32.49,medium,low,7,namesilo,,,20/09/2026 02:57
+d352b6de-ef52-4dcc-bf9d-07c89554904c,payment.fishing,available,32.49,32.49,medium,low,7,namesilo,,,23/09/2026 10:58
 1bf5fb2f-232b-4412-8ea9-cf26b2cf8dec,comely.fishing,available,32.49,32.49,low,low,6,namesilo,,,09/08/2026 06:13
 22d9d2c7-3cfa-444e-8a3d-798615bda62f,eater.fishing,available,32.49,32.49,low,low,5,namesilo,,,19/09/2026 09:42
 530d9673-2488-43e1-8e7a-5c290cd8cda9,democrat.fishing,available,32.49,32.49,high,low,8,namesilo,,,
@@ -489,8 +489,8 @@ df02298b-8d96-46ca-9a4b-1f3b725386cb,however.fishing,available,32.49,32.49,high,
 35d5fa7b-076a-40ed-9ec9-c3d81200ce94,verse.fishing,available,32.49,32.49,high,low,5,namesilo,,,
 96fab8e2-cf2d-4913-8370-60d6a34a627e,coconut.fishing,available,32.49,32.49,high,low,7,namesilo,,,
 3fc05f14-89b7-469c-b7cc-8aa9750e9737,begrimed.fishing,available,32.49,32.49,low,low,8,namesilo,,,09/08/2026 09:16
-a881984f-c002-4c11-8a3a-cfac513dce4c,sneak.fishing,available,32.49,32.49,high,low,5,namesilo,,,
-e0984b93-caf5-4f81-8931-56d77f80e17a,bugged.fishing,available,32.49,32.49,medium,low,6,namesilo,,,
+a881984f-c002-4c11-8a3a-cfac513dce4c,sneak.fishing,available,32.49,32.49,low,low,5,namesilo,,,23/09/2026 12:44
+e0984b93-caf5-4f81-8931-56d77f80e17a,bugged.fishing,available,32.49,32.49,low,low,6,namesilo,,,23/09/2026 10:21
 f8fcaa57-22a1-405f-b23a-42436d1d0e70,ideal.fishing,available,32.49,32.49,high,low,5,namesilo,,,
 211e06cd-21b4-4e4f-8ad2-ef601adcbe91,wow.fishing,premium,47.2,29.5,high,medium,3,namesilo,,,
 7a4c324e-5b0a-4d06-91f1-4a9ff554154d,intensively.fishing,available,45.98,,medium,low,11,namecheap,,,
@@ -527,7 +527,7 @@ d0f65ef7-5372-480d-9008-46710853e484,katy.fishing,premium,100,,high,low,4,name.c
 e998e76d-6617-4cba-854c-53d5af35e6d9,antitank.fishing,available,32.49,32.49,low,low,8,namesilo,,,05/08/2026 19:44
 db39973f-f3f9-4b2d-82c4-72570bff0ff1,modesty.fishing,available,45.98,,high,low,7,namecheap,,,
 65d1271d-2804-4da6-a8e9-8ebcd9e9a8cd,internal.fishing,available,32.49,32.49,medium,low,8,namesilo,,,
-925c9bc2-6017-4671-903e-0927e67a42a4,flexible.fishing,available,42.99,45.99,high,low,8,name.com,,,
+925c9bc2-6017-4671-903e-0927e67a42a4,flexible.fishing,available,33.98,45.98,medium,low,8,namecheap,,,23/09/2026 18:12
 02769979-f000-49b6-b8ca-6f405e6da399,debt.fishing,premium,100,,high,low,4,name.com,,,
 121ff28b-de71-46ef-a160-a7a7edb8f63b,comeinto.fishing,available,32.49,32.49,high,low,9,namesilo,,,
 799c5310-9664-4794-aa1b-dbe9df72b9fe,loose.fishing,available,32.49,32.49,low,low,5,namesilo,,,22/09/2026 10:42
@@ -578,7 +578,7 @@ b36530b9-e888-4368-8527-3508f3b58115,transferableskill.fishing,available,32.49,3
 aa2f7b14-6039-4908-8c0e-2dcc8cb7f720,formless.fishing,available,33.98,45.98,low,low,8,namecheap,,,
 c007adec-ce53-44e2-ab61-608eaedb71c6,agnate.fishing,available,32.49,32.49,low,low,6,namesilo,,,
 e5a8942c-bacf-4f95-8801-435b55f7234b,branch.fishing,available,45.98,,medium,low,6,namecheap,,,
-2ad72db3-3f81-4aa8-850c-9f576f301475,criminal.fishing,available,42.99,45.99,high,low,8,name.com,,,
+2ad72db3-3f81-4aa8-850c-9f576f301475,criminal.fishing,available,33.98,45.98,low,low,8,namecheap,,,23/09/2026 19:22
 3cf67dac-7a25-40a8-b468-601b6ea91d70,abreast.fishing,available,32.49,32.49,low,low,7,namesilo,,,
 f4b6eae3-56d0-417b-baab-d30a3d060723,bruce.fishing,premium,47.2,29.5,high,low,5,namesilo,,,
 3e4ee865-f11c-4d34-84a0-b0af8c201dc5,dowjones.fishing,available,32.49,32.49,high,medium,9,namesilo,,,
@@ -598,7 +598,7 @@ b0a3b7a5-2511-4900-9791-e5815f36d7ed,undeveloped.fishing,available,45.98,,low,lo
 a89efdf0-f4ff-4549-aee4-cd1b57f22578,analytical.fishing,available,32.49,32.49,low,low,10,namesilo,,,
 ef31f539-807e-4283-b335-e59899ee8e24,parliamentary.fishing,available,32.49,32.49,medium,low,13,namesilo,,,
 16db526b-c285-4583-a7b5-18101dec6674,passion.fishing,available,32.49,32.49,high,low,7,namesilo,,,
-17896213-65a3-4b53-83ba-b15cedb173ca,idiot.fishing,available,32.49,32.49,low,low,5,namesilo,,,19/09/2026 09:51
+17896213-65a3-4b53-83ba-b15cedb173ca,idiot.fishing,available,32.49,32.49,low,low,5,namesilo,,,23/09/2026 07:42
 06342b63-a8f4-402d-8dc1-37d910178a82,departure.fishing,available,32.49,32.49,medium,low,9,namesilo,,,08/09/2026 12:08
 597a09ef-849e-4f5c-b224-a28eff523cc6,consensus.fishing,available,32.49,32.49,high,low,9,namesilo,,,
 28830de3-b6ad-4c10-93aa-0ec0bfd41a26,lookto.fishing,available,32.49,32.49,high,low,7,namesilo,,,
@@ -614,7 +614,7 @@ b94a6338-83b7-45a4-85fe-85547e47699a,soup.fishing,premium,47.2,29.5,high,low,4,n
 fd1834c6-fb94-43ef-a477-9d145406973e,aujus.fishing,available,32.49,32.49,low,low,6,namesilo,,,22/09/2026 11:49
 e993efbd-0c7f-4278-8f9e-8e8897ebc8a6,admiration.fishing,available,32.49,32.49,high,low,10,namesilo,,,
 aa632f0c-8e27-489e-bbca-fcbdfb6625dd,livid.fishing,available,32.49,32.49,low,low,5,namesilo,,,07/08/2026 02:24
-c1ae61be-a8fe-4924-b4d3-617c9e64cdf6,changing.fishing,available,32.49,32.49,medium,low,8,namesilo,,,
+c1ae61be-a8fe-4924-b4d3-617c9e64cdf6,changing.fishing,available,33.98,45.98,low,low,8,namecheap,,,23/09/2026 13:46
 4b07981b-cc23-4f8e-825a-19aa8060d3d4,auxetic.fishing,available,32.49,32.49,low,low,7,namesilo,,,07/08/2026 21:28
 9aa1229b-f5a4-4842-ae42-04779f2fe1ec,calculation.fishing,available,32.49,32.49,medium,low,11,namesilo,,,
 962cd26b-b864-45d6-a37f-95f19133e0b7,motherfukker.fishing,available,32.49,32.49,medium,low,12,namesilo,,,
@@ -651,7 +651,7 @@ e355c76e-ed87-4f3f-bd09-129e7633cc69,arachnoid.fishing,available,32.49,32.49,low
 75eea725-8823-43da-9138-79996aac0fd8,frenchroast.fishing,available,45.98,,medium,low,12,namecheap,,,
 00eb7116-1aea-43af-a004-a64330e9cd3e,businessventure.fishing,available,32.49,32.49,high,low,16,namesilo,,,
 8c0888fe-8824-4ad2-8a52-ca88ff252923,ensure.fishing,available,32.49,32.49,high,low,6,namesilo,,,
-0598346b-fe23-40b6-996f-5c623d255025,complex.fishing,available,42.99,45.99,high,low,7,name.com,,,
+0598346b-fe23-40b6-996f-5c623d255025,complex.fishing,available,32.49,32.49,medium,low,7,namesilo,,,23/09/2026 17:35
 60bc1bfc-1090-4a36-be73-27c1e7ea11cc,subjective.fishing,available,32.49,32.49,medium,low,10,namesilo,,,
 06a5aa16-5c15-46fb-9ccd-f2d0c05c374c,nought.fishing,available,32.49,32.49,medium,low,6,namesilo,,,21/09/2026 10:34
 6b2f9699-afc0-4e8a-a232-23120b79973e,havegot.fishing,available,32.49,32.49,high,low,8,namesilo,,,
@@ -664,7 +664,7 @@ ea8ed508-f560-49f9-a677-e9d74be13e95,veal.fishing,premium,47.2,29.5,medium,low,4
 592c37b0-9c79-4806-aab4-dc9278939710,autarkical.fishing,available,32.49,32.49,low,low,10,namesilo,,,07/08/2026 18:42
 abf79373-ab8e-4d8f-b9ee-e5a372e6f106,stink.fishing,available,32.49,32.49,high,low,5,namesilo,,,
 78fc5853-bef1-4b67-b322-77d3265692ed,bemother.fishing,available,32.49,32.49,low,low,9,namesilo,,,
-dc3c57ba-a26b-4421-a74c-4193f4656e40,out.fishing,resell,,,medium,low,3,"GoDaddy.com, LLC",27/06/2021 19:31,27/06/2027 19:31,19/09/2026 10:34
+dc3c57ba-a26b-4421-a74c-4193f4656e40,out.fishing,resell,,,medium,low,3,"GoDaddy.com, LLC",27/06/2021 19:31,27/06/2027 19:31,23/09/2026 05:30
 a5a83aeb-6113-44df-a765-78c14135f6d5,nothanks.fishing,available,45.98,,medium,low,9,namecheap,,,
 8e0c815b-ebe7-4d46-83be-d4b47b5e4f6e,particles.fishing,available,32.49,32.49,low,low,9,namesilo,,,
 0139edc4-7b57-421c-a1a8-9b1581e8d6aa,popmusic.fishing,available,32.49,32.49,medium,low,9,namesilo,,,
@@ -678,7 +678,7 @@ c689524c-c2cb-4056-93e5-a3e96ae712ca,westham.fishing,available,32.49,32.49,low,l
 5e2fbfb3-8e6a-49f6-9062-84b97ff93461,unhappy.fishing,available,42.99,45.99,high,low,7,name.com,,,
 7363c3ac-1c8a-42f8-905f-fa100b3641c6,axillary.fishing,available,32.49,32.49,low,low,8,namesilo,,,
 e92f6b32-9f94-43a5-b15f-c3f0051fa2ee,asynergic.fishing,available,32.49,32.49,low,low,9,namesilo,,,07/08/2026 10:39
-ad3c92d1-ee39-47e7-b3a4-9d6d40b49b25,custom.fishing,premium,96,29.5,medium,low,6,namesilo,,,20/09/2026 02:48
+ad3c92d1-ee39-47e7-b3a4-9d6d40b49b25,custom.fishing,premium,96,29.5,medium,low,6,namesilo,,,23/09/2026 10:51
 3e85138e-8a4b-4964-bdee-f4163afc1a31,testimony.fishing,available,32.49,32.49,medium,low,9,namesilo,,,
 eb75c08e-a4b3-477c-b034-043cf1a81831,quite.fishing,available,32.49,32.49,high,low,5,namesilo,,,
 898e429b-9712-483f-978b-10dede7a387a,fatigue.fishing,available,32.49,32.49,high,low,7,namesilo,,,
@@ -747,7 +747,7 @@ f2fe2b94-8cac-4ec9-b5b0-23e58d743cfe,payfor.fishing,available,32.49,32.49,high,l
 c53b7fd8-01c4-4e6a-8ab0-7f3a48a91f1b,supposedly.fishing,available,32.49,32.49,medium,low,10,namesilo,,,
 94962579-a8c2-4c45-aa20-bd46f7c1f63a,goodnews.fishing,available,32.49,32.49,high,low,9,namesilo,,,
 e3148b7f-e518-4a00-b41f-99a6510c028f,intheabstract.fishing,available,32.49,32.49,medium,low,15,namesilo,,,
-dce813f7-ba53-4f31-9ae9-8ce24a8c6345,cooked.fishing,premium,100,45.99,high,low,6,name.com,,,
+dce813f7-ba53-4f31-9ae9-8ce24a8c6345,cooked.fishing,premium,96,29.5,low,low,6,namesilo,,,23/09/2026 22:56
 cbe73cb6-578d-4491-b044-e209050d7a9d,fanta.fishing,available,45.98,,high,low,5,namecheap,,,
 b4b45ad2-5f7a-472d-94bd-ab0ce0d5677e,moneyeconomy.fishing,available,32.49,32.49,high,low,13,namesilo,,,
 a38ac22a-c245-424f-93e4-dba85d85d7d4,plausive.fishing,available,32.49,32.49,low,low,8,namesilo,,,06/08/2026 08:54
@@ -829,7 +829,7 @@ ae0a709b-8b38-4992-86b6-6c4d2c608dff,cinderella.fishing,premium,96,29.5,high,low
 db9ecd75-b688-4d88-b25b-e2b8b0135a57,carryout.fishing,available,32.49,32.49,high,low,9,namesilo,,,
 b500d928-dbd9-4f7e-8c3c-a1274799a61e,notes.fishing,available,32.49,32.49,medium,low,5,namesilo,,,
 d736a718-db24-4797-8bb3-04b3b073305a,wink.fishing,premium,96,29.5,medium,low,4,namesilo,,,22/09/2026 22:05
-9222f841-0952-4ab6-85ed-9ad888b195bd,begin.fishing,premium,47.2,29.5,medium,low,5,namesilo,,,19/09/2026 05:29
+9222f841-0952-4ab6-85ed-9ad888b195bd,begin.fishing,premium,50,46.99,medium,low,5,name.com,,,23/09/2026 09:05
 c04d380d-9a49-4acb-a5d0-e24338b8ce7d,getat.fishing,available,32.49,32.49,high,low,6,namesilo,,,
 72a89fa5-4606-4576-b88f-cd2cb366c183,hightechnology.fishing,available,32.49,32.49,high,low,15,namesilo,,,
 4e5afef3-7ac7-4e18-8871-e04f1825f07e,inch.fishing,premium,47.2,29.5,medium,low,4,namesilo,,,
@@ -860,7 +860,7 @@ dee6ec24-cb85-4334-827b-0a3162d669cf,gram.fishing,premium,47.2,29.5,medium,low,4
 ea70982f-51e4-47b0-978f-f640ebf60ab3,trial.fishing,premium,50,,high,low,5,name.com,,,
 361dbca1-3dd5-405e-b583-fb08c4d0b191,visual.fishing,available,33.98,45.98,medium,low,6,namecheap,,,19/09/2026 17:59
 359b230c-5821-4acd-ac24-6aec0bc1485f,area.fishing,premium,47.2,29.5,high,low,4,namesilo,,,
-8652631b-4f7e-4db4-a7e2-4e0bfdbe43ba,masterful.fishing,available,42.99,45.99,high,low,9,name.com,,,
+8652631b-4f7e-4db4-a7e2-4e0bfdbe43ba,masterful.fishing,available,33.98,45.98,medium,low,9,namecheap,,,23/09/2026 21:35
 63740feb-a8c1-499d-b284-7ba6b45e1a2b,anestric.fishing,available,32.49,32.49,low,low,8,namesilo,,,
 5fd8cfc5-8595-413d-9cab-18f527e459b0,sink.fishing,premium,47.2,29.5,medium,low,4,namesilo,,,
 c6f0d8e0-dd50-4335-852e-c778528b9aca,camo.fishing,premium,47.2,29.5,high,low,4,namesilo,,,
@@ -895,7 +895,7 @@ d2e9044e-d367-4173-ad97-d014b95e22c8,toe.fishing,premium,50,,medium,low,3,name.c
 ca9f3fe8-6d8d-4c6f-ac11-73273f43378b,afloat.fishing,available,32.49,32.49,high,low,6,namesilo,,,
 9936a66f-c78a-4534-9cf4-e8a5762c1d9a,frenchlavender.fishing,available,32.49,32.49,high,low,15,namesilo,,,
 5a34279a-ca33-42dc-805e-0f087f1b8401,bland.fishing,premium,96,29.5,low,low,5,namesilo,,,22/09/2026 21:44
-667a776a-f262-4d7e-8248-72815baa2384,chip.fishing,premium,100,45.99,high,low,4,name.com,,,
+667a776a-f262-4d7e-8248-72815baa2384,chip.fishing,premium,96,29.5,medium,low,4,namesilo,,,24/09/2026 01:56
 f39fa073-0e83-4721-ab78-2b53c35c44a7,generalgoods.fishing,available,32.49,32.49,medium,low,13,namesilo,,,
 10e2510d-0340-48c1-a2d0-5160f9b50644,table.fishing,premium,50,,high,low,5,name.com,,,
 7780604e-d55b-4d5a-acc1-2476d37fd11c,sound.fishing,available,32.49,32.49,high,low,5,namesilo,,,
@@ -941,7 +941,7 @@ ce9d7b69-5c62-4dd8-bd7c-042489f0f2e3,whip.fishing,premium,47.2,29.5,high,low,4,n
 0e903556-ed5b-4bf6-a250-6d7756e94b36,plaguey.fishing,available,,,low,low,7,,,,
 c3d0744e-2006-4f11-ac00-a7c5734ddde4,toomany.fishing,available,32.49,32.49,low,low,8,namesilo,,,
 9ddf068c-1203-411a-aea9-db55fbdf6e5b,silver.fishing,premium,96,29.5,medium,low,6,namesilo,,,22/09/2026 07:45
-6c1ee5b8-f27e-4d1a-9651-dd7557e20dbe,medicine.fishing,premium,47.2,29.5,medium,low,8,namesilo,,,20/09/2026 02:42
+6c1ee5b8-f27e-4d1a-9651-dd7557e20dbe,medicine.fishing,premium,52,32.5,medium,low,8,namecheap,,,23/09/2026 06:09
 2bb9aed0-67ba-426c-8f5b-52b1c99b083a,rejection.fishing,available,32.49,32.49,medium,low,9,namesilo,,,
 66993ff1-a609-4e9a-a629-9fe091a014bf,underpowered.fishing,available,32.49,32.49,medium,low,12,namesilo,,,
 415d42aa-6f8f-4201-99b2-8141e9b7643a,croptop.fishing,available,32.49,32.49,high,low,8,namesilo,,,
@@ -977,7 +977,7 @@ f011ca21-d3fd-4f06-802f-48ac9bc3c69b,therefore.fishing,available,45.98,,medium,l
 0b0cb644-e048-4626-a297-101714f3c7e4,thisisit.fishing,available,32.49,32.49,low,low,10,namesilo,,,
 4e718e45-8e19-4605-9975-e34c8a0c1bf2,adjustable.fishing,available,33.98,45.98,medium,low,10,namecheap,,,21/09/2026 18:40
 a0dc6a6e-7167-405c-bef7-d8a2f4d49be8,ballroom.fishing,available,32.49,32.49,high,low,8,namesilo,,,
-f32626ab-6b74-4dc7-8d1c-5c972d48b676,cliche.fishing,available,32.49,32.49,high,low,6,namesilo,,,
+f32626ab-6b74-4dc7-8d1c-5c972d48b676,cliche.fishing,available,32.49,32.49,medium,low,6,namesilo,,,23/09/2026 16:07
 fa3d190f-94d6-4576-8bad-5860203fc55d,garbed.fishing,available,32.49,32.49,low,low,6,namesilo,,,06/08/2026 04:52
 a53f78a9-5cb3-4aee-9c72-08943eea3c8c,abashed.fishing,available,32.49,32.49,low,low,7,namesilo,,,
 c6e03ee7-a246-4aeb-aa5d-5846416f1e86,inquisitive.fishing,available,45.98,,medium,low,11,namecheap,,,
@@ -992,7 +992,7 @@ f9929d2e-2139-404d-8ce6-117f9e2f8fdf,baggagecheck.fishing,available,32.49,32.49,
 e2c5d17f-e234-4965-b87f-9145de204ddb,beating.fishing,available,32.49,32.49,high,low,7,namesilo,,,
 25a4b29c-de61-49d0-8dfe-d5e7bceac1f8,unplug.fishing,available,32.49,32.49,high,low,6,namesilo,,,
 675a89c3-37e0-4784-8350-7b33d934c28f,turtleneckcollar.fishing,available,32.49,32.49,high,low,17,namesilo,,,
-49fe177a-f1c7-4f10-bb7b-6a35e8e879ec,considered.fishing,available,42.99,45.99,high,low,10,name.com,,,
+49fe177a-f1c7-4f10-bb7b-6a35e8e879ec,considered.fishing,available,33.98,45.98,medium,low,10,namecheap,,,23/09/2026 20:51
 11cf3314-bfe5-453b-b01f-ddd352d52214,seriousness.fishing,available,32.49,32.49,low,low,11,namesilo,,,
 9f262702-f8c1-426f-ac03-b12dd7805148,roi.fishing,premium,47.2,29.5,high,low,3,namesilo,,,
 f2382818-a89a-4864-9045-9aa5a94bc118,widowed.fishing,available,32.49,32.49,medium,low,7,namesilo,,,
