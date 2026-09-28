@@ -1,10 +1,10 @@
-# Available .FISHING One-Word Domains (24,960)
+# Available .FISHING One-Word Domains (25,547)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C960%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C547%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .fishing one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **24,960 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **25,547 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 24,960 domains · **Median ask:** $47.00 · **High-demand under $2,500:** 53
+**Public extract:** 1,000 rows · **Live catalog:** 25,547 domains · **Median ask:** $47.02 · **High-demand under $2,500:** 56
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/fishing`
@@ -70,11 +70,11 @@ print(df.head())
 | ste.fishing   | available | $33.98    | $45.98        | high           | low    | 3      | namecheap |
 | bet.fishing   | premium   | $96       | $29.50        | high           | medium | 3      | namesilo  |
 | suv.fishing   | available | $32.49    | $32.49        | high           | low    | 3      | namesilo  |
-| ear.fishing   | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo  |
+| cpa.fishing   | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo  |
 | able.fishing  | available | $33.98    | $45.98        | high           | low    | 4      | namecheap |
-| egg.fishing   | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo  |
+| ear.fishing   | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo  |
 | akko.fishing  | available | $32.49    | $32.49        | medium         | low    | 4      | namesilo  |
-| eon.fishing   | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo  |
+| egg.fishing   | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo  |
 | bold.fishing  | available | $32.49    | $32.49        | high           | medium | 4      | namesilo  |
 | had.fishing   | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo  |
 | fort.fishing  | available | $32.49    | $32.49        | high           | low    | 4      | namesilo  |
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 24,960 live domains                        |
+| 1,000-row public sample | 25,547 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 53 high-demand names under $2,500          |
+| Basic exported fields   | 56 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
