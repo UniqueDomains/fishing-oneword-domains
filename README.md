@@ -1,10 +1,10 @@
-# Available .FISHING One-Word Domains (30,160)
+# Available .FISHING One-Word Domains (32,637)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-30%2C160%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C637%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .fishing one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **30,160 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **32,637 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 30,160 domains · **Median ask:** $46.62 · **High-demand under $2,500:** 76
+**Public extract:** 1,000 rows · **Live catalog:** 32,637 domains · **Median ask:** $45.94 · **High-demand under $2,500:** 88
 
-**Last updated:** 2026-09-30
+**Last updated:** 2026-10-01
 **Canonical page:** `https://unique.domains/domains/tld/fishing`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar  |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------- |
-| blm.fishing   | available | $25.20    | $25.20        | high           | low    | 3      | cloudflare |
+| afm.fishing   | available | $32.49    | $32.49        | high           | low    | 3      | namesilo   |
 | trips.fishing | resell    | —         | —             | medium         | low    | 5      | —          |
 | ali.fishing   | premium   | $47.20    | $29.50        | high           | high   | 3      | namesilo   |
-| cns.fishing   | available | $32.49    | $32.49        | high           | low    | 3      | namesilo   |
+| blm.fishing   | available | $25.20    | $25.20        | high           | low    | 3      | cloudflare |
 | atv.fishing   | premium   | $41.60    | $26.08        | high           | low    | 3      | spaceship  |
-| gma.fishing   | available | $25.20    | $25.20        | high           | low    | 3      | cloudflare |
+| cns.fishing   | available | $32.49    | $32.49        | medium         | low    | 3      | namesilo   |
 | bet.fishing   | premium   | $96       | $29.50        | high           | medium | 3      | namesilo   |
-| ict.fishing   | available | $25.20    | $25.20        | high           | low    | 3      | cloudflare |
+| gma.fishing   | available | $25.20    | $25.20        | high           | low    | 3      | cloudflare |
 | cba.fishing   | premium   | $41.60    | $26.08        | high           | low    | 3      | spaceship  |
-| itc.fishing   | available | $32.49    | $32.49        | high           | low    | 3      | namesilo   |
+| ict.fishing   | available | $25.20    | $25.20        | high           | low    | 3      | cloudflare |
 | cpa.fishing   | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo   |
-| luo.fishing   | available | $26.08    | $26.08        | high           | low    | 3      | spaceship  |
+| itc.fishing   | available | $32.49    | $32.49        | high           | low    | 3      | namesilo   |
 | ear.fishing   | premium   | $44       | $26.97        | high           | low    | 3      | dynadot    |
-| nac.fishing   | available | $26.08    | $26.08        | high           | low    | 3      | spaceship  |
+| luo.fishing   | available | $26.08    | $26.08        | high           | low    | 3      | spaceship  |
 | gem.fishing   | premium   | $41.60    | $26.08        | high           | medium | 3      | spaceship  |
-| pha.fishing   | available | $26.08    | $26.08        | medium         | low    | 3      | spaceship  |
+| nac.fishing   | available | $26.08    | $26.08        | high           | low    | 3      | spaceship  |
 | had.fishing   | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo   |
-| ric.fishing   | available | $26.97    | $26.97        | medium         | low    | 3      | dynadot    |
+| nwa.fishing   | available | $26.97    | $26.97        | high           | low    | 3      | dynadot    |
 | han.fishing   | premium   | $41.60    | $26.08        | high           | low    | 3      | spaceship  |
-| rts.fishing   | available | $26.08    | $26.08        | high           | low    | 3      | spaceship  |
+| pha.fishing   | available | $26.08    | $26.08        | medium         | low    | 3      | spaceship  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 30,160 live domains                        |
+| 1,000-row public sample | 32,637 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 76 high-demand names under $2,500          |
+| Basic exported fields   | 88 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FISHING One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FISHING One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
